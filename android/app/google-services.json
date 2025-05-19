@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003659210713",
+    "project_id": "quickbites-ef420",
+    "storage_bucket": "quickbites-ef420.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003659210713:android:dcf4b6e6d4e6844c9af3c8",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQF9UXFW3Vs-PuC6nvCYe_EhAWzlHJUtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
